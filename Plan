@@ -1,0 +1,14 @@
+
+
+Plan my gem, imagine the interface
+Start with project structure - google
+Start with entry point - make the file run
+Make the entry point build the CLI interface
+Stub out the interface
+Start making things real
+Discover objects
+Program
+
+
+A CLI for https://www.britannica.com/list/10-greatest-baseball-players-of-all-time
+The program will give a list of players and when the user types a number associated with the player a bio will appear 
